@@ -10,5 +10,6 @@ npm install express-generator -g
 express -h
 express .
 npm install
+SET DEBUG=express-static-poc:* & npm start
 browse http://localhost:3000
 ```
